@@ -1,1 +1,1 @@
-# https://github.com/Leecheunsu/earthhard.git
+# https://leecheunsu.github.io/earthhard/
